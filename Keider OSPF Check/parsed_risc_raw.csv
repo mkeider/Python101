@@ -1,0 +1,114 @@
+Problem Short Description,Device Name,Instance,Metric,Metric Description
+,,,,
+Too Many IM/Chat Applications,,Cisco WebEx Meeting Center,1,Installs of Unique IM/Chat Client
+Too Many IM/Chat Applications,,Microsoft Office Live Meeting 2007,1,Installs of Unique IM/Chat Client
+Too Many IM/Chat Applications,,Microsoft Office Live Meeting 2007,1,Installs of Unique IM/Chat Client
+Too Many IM/Chat Applications,,Microsoft Office Live Meeting 2007,1,Installs of Unique IM/Chat Client
+Too Many IM/Chat Applications,,NA1Messenger,1,Installs of Unique IM/Chat Client
+Network Software Consistency,,YA.15.19,1,Software Versions on Family
+Network Software Consistency,,YA.15.19,1,Software Versions on Family
+Network Software Consistency,,WB.15.05,1,Software Versions on Family
+Virtual Switch Input Packet Loss,10.0.33.245,DSIG-RDSHPH01,1047,Receive packets dropped:1047.
+Potential G.711 Calls Supported,10.32.36.254,DESCR: X2 NAME: X2 (IPVPN),105,G.711 calls supported on this interface
+Virtual Switch Input Packet Loss,10.0.33.198,DSIG-RDSHRM03,1066,Receive packets dropped:1066.
+Potential G.711 Calls Supported,nybro-a0-1,DESCR: HP Mini PC NAME: 4,110,G.711 calls supported on this interface
+Virtual Switch Input Packet Loss,10.0.33.3,BioRx-FS01,1108,Receive packets dropped:1108.
+Logical Disk Exhaustion,BIORX-SQLTEST01,E:,114,Logical Disk Utilization
+Routing Protocol,,other,114,num of routes by protocol
+Virtual Switch Input Packet Loss,10.0.33.49,BioRx-vSAN01,1154,Receive packets dropped:1154.
+Potential G.711 Calls Supported,iaurb-a0-st01,DESCR: Port 1/33 NAME: 1/33,116,G.711 calls supported on this interface
+Potential G.711 Calls Supported,HP2920-48G-PoE+Kemper-S2,DESCR: Port 1/31 NAME: 1/31,120,G.711 calls supported on this interface
+Potential G.711 Calls Supported,HP-2920-48G-PoE+Cornell,DESCR: Port 1/23 NAME: 1/23,120,G.711 calls supported on this interface
+Router Interfaces with Errors,10.0.68.254,Name:DESCR: X6 NAME: X6 (Portshielded To X0) - Descr:X6 (Portshielded To X0),12086,Low Level packet loss causes performance problems.
+Potential G.711 Calls Supported,HP-2920-48G-PoE+Kemper,DESCR: Port 1/44 NAME: 1/44,121,G.711 calls supported on this interface
+Potential G.711 Calls Supported,HP-2920-48G-PoE+Kemper,DESCR: Port 3/40 NAME: 3/40,121,G.711 calls supported on this interface
+Potential G.711 Calls Supported,mawob-a0-st01,DESCR: Port 2/37 NAME: 2/37,121,G.711 calls supported on this interface
+Potential G.711 Calls Supported,iaurb-a0-st01,DESCR: Port 1/21 NAME: 1/21,122,G.711 calls supported on this interface
+Disk Latency,BIORX-SQL01,G:,1317,Physical Disk Latency (ms)
+Virtual Switch Input Packet Loss,169.254.2.180,OHBAEXCHAPPRD01,139,Receive packets dropped:139.
+Too Many IM/Chat Applications,,Windows Live Communications Platform,14,Installs of Unique IM/Chat Client
+Too Many IM/Chat Applications,,Windows Live Messenger,14,Installs of Unique IM/Chat Client
+High I/O Latency on Shared Storage,10.0.33.20,biorx-vm03.biorx.net,141890,Max Physical device read latency: 141890 ms.  Total Hours with avg latency > 50 ms: 59.
+Virtual Switch Input Packet Loss,10.0.33.17,BioRx-vCenterVA,145,Receive packets dropped:145.
+Virtual Switch Input Packet Loss,10.0.33.8,DSIG-RPT01,152,Receive packets dropped:152.
+Virtual Switch Input Packet Loss,10.0.33.12,BioRx-RDSFARM01,157,Receive packets dropped:157.
+Network Software Consistency,,,16,Software Versions on Family
+Virtual Switch Input Packet Loss,10.0.33.14,BioRx-PRINT01,17,Receive packets dropped:17.
+High I/O Latency on Shared Storage,10.0.33.18,biorx-vm01.biorx.net,195,Max Physical device write latency: 195 ms.  Total Hours with avg latency > 50 ms: 3.
+Too Many IM/Chat Applications,,Microsoft Office Live Meeting 2007,2,Installs of Unique IM/Chat Client
+Too Many IM/Chat Applications,,NA1Messenger,2,Installs of Unique IM/Chat Client
+Too Many IM/Chat Applications,,NA1Messenger,2,Installs of Unique IM/Chat Client
+Too Many IM/Chat Applications,,WebEx Productivity Tools,2,Installs of Unique IM/Chat Client
+Network Software Consistency,,,2,Software Versions on Family
+Network Software Consistency,,1.0.0.44,2,Software Versions on Family
+Network Software Consistency,,WB.16.01,2,Software Versions on Family
+Network Software Consistency,,WB.16.02,2,Software Versions on Family
+Shared Uplinks with Errors,nybro-a0-1,Name:DESCR: Lexmark NAME: 1 - Descr:1,2,Low Level packet loss causes performance problems.
+Shared Uplinks with Errors,nybro-a0-1,Name:DESCR: Port 5 NAME: 5 - Descr:5,2,Low Level packet loss causes performance problems.
+Router Interfaces with Discards,10.0.66.254,Name:DESCR: X1 NAME: X1 (WAN) - Descr:X1 (WAN),2050,Packet Discards cause performance problems.
+High I/O Latency on Shared Storage,10.0.33.18,biorx-vm01.biorx.net,207,Max Physical device read latency: 207 ms.  Total Hours with avg latency > 50 ms: 2.
+Virtual Switch Input Packet Loss,10.0.33.226,DSIG-RDSHRM02,2166,Receive packets dropped:2166.
+Virtual Switch Input Packet Loss,10.0.33.27,BioRx-KS,22,Receive packets dropped:22.
+Virtual Switch Input Packet Loss,10.0.33.246,BioRx-APP02,22,Receive packets dropped:22.
+Virtual Switch Input Packet Loss,10.0.33.247,BioRx-FIN02,229,Receive packets dropped:229.
+Virtual Switch Input Packet Loss,10.0.33.46,DSIG-SQL01,2306,Receive packets dropped:2306.
+Virtual Switch Input Packet Loss,10.0.33.9,DSIG-Ruckus-vSZ-Primary,234,Receive packets dropped:234.
+Too Many IM/Chat Applications,,Windows Live Communications Platform,26,Installs of Unique IM/Chat Client
+Virtual Switch Input Packet Loss,10.0.33.50,MedPro_SAS,27,Receive packets dropped:27.
+Potential G.729a Calls Supported,10.0.33.23,DESCR: X4 NAME: X4 (DSIG:ScottsdaleAZ P2P),284,G.729 calls supported on this interface
+Network Software Consistency,,WB.16.03,3,Software Versions on Family
+Virtual Switch Input Packet Loss,10.0.33.16,BioRx-DRvCenterVA,30,Receive packets dropped:30.
+Virtual Switch Input Packet Loss,10.0.33.38,BioRx-VEEAM01,312941,Receive packets dropped:312941.
+Routing Protocol,,netmgmt,32,num of routes by protocol
+Potential G.729a Calls Supported,10.32.36.254,DESCR: X2 NAME: X2 (IPVPN),325,G.729 calls supported on this interface
+Virtual Switch Input Packet Loss,10.0.33.47,DSIG-APP01,339,Receive packets dropped:339.
+Potential G.729a Calls Supported,nybro-a0-1,DESCR: HP Mini PC NAME: 4,340,G.729 calls supported on this interface
+Potential G.729a Calls Supported,iaurb-a0-st01,DESCR: Port 1/33 NAME: 1/33,358,G.729 calls supported on this interface
+Potential G.729a Calls Supported,HP2920-48G-PoE+Kemper-S2,DESCR: Port 1/31 NAME: 1/31,369,G.729 calls supported on this interface
+Potential G.729a Calls Supported,HP-2920-48G-PoE+Cornell,DESCR: Port 1/23 NAME: 1/23,371,G.729 calls supported on this interface
+Potential G.729a Calls Supported,HP-2920-48G-PoE+Kemper,DESCR: Port 1/44 NAME: 1/44,372,G.729 calls supported on this interface
+Potential G.729a Calls Supported,HP-2920-48G-PoE+Kemper,DESCR: Port 3/40 NAME: 3/40,372,G.729 calls supported on this interface
+Potential G.729a Calls Supported,mawob-a0-st01,DESCR: Port 2/37 NAME: 2/37,374,G.729 calls supported on this interface
+Potential G.729a Calls Supported,iaurb-a0-st01,DESCR: Port 1/21 NAME: 1/21,375,G.729 calls supported on this interface
+Routing Protocol,,local,38,num of routes by protocol
+High I/O Latency on Shared Storage,10.0.33.20,biorx-vm03.biorx.net,41035,Max Physical device write latency: 41035 ms.  Total Hours with avg latency > 50 ms: 26.
+Virtual Switch Input Packet Loss,10.0.33.7,DSIG-DLSQL01,412,Receive packets dropped:412.
+Virtual Switch Input Packet Loss,10.0.33.4,BioRx-SQL01,430,Receive packets dropped:430.
+Critical Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/41 NAME: 1/41 - Descr:1/41,47,Packet Discards cause performance problems.
+Shared Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/41 NAME: 1/41 - Descr:1/41,47,Packet Discards cause performance problems.
+Hypervisor CPU Oversubscription,10.0.33.46,DSIG-SQL01 -,5,Total Hours over 5% ready time:1 VMware recommends under 5% CPU Ready Time
+Hypervisor CPU Oversubscription,10.0.33.219,DSIG-RDSHRM01 -,5,Total Hours over 5% ready time:1 VMware recommends under 5% CPU Ready Time
+Hypervisor CPU Oversubscription,10.0.33.226,DSIG-RDSHRM02 -,5,Total Hours over 5% ready time:3 VMware recommends under 5% CPU Ready Time
+Hypervisor CPU Oversubscription,10.0.33.229,DSIG-RDSHPH02 -,5,Total Hours over 5% ready time:4 VMware recommends under 5% CPU Ready Time
+Critical Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/13 NAME: 1/13 - Descr:1/13,50,Packet Discards cause performance problems.
+Shared Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/13 NAME: 1/13 - Descr:1/13,50,Packet Discards cause performance problems.
+Virtual Switch Input Packet Loss,10.0.33.6,DSIG-DLOCR01,52,Receive packets dropped:52.
+Router Interfaces with Discards,10.0.34.252,Name:DESCR: X1 NAME: X1 (WAN) - Descr:X1 (WAN),53,Packet Discards cause performance problems.
+Shared Uplinks with Discards,txdal-a0-st01,Name:DESCR: Port 2/10 NAME: 2/10 - Descr:2/10,541,Packet Discards cause performance problems.
+Too Many IM/Chat Applications,,Messenger Companion,6,Installs of Unique IM/Chat Client
+Too Many IM/Chat Applications,,Windows Live Messenger Companion Core,6,Installs of Unique IM/Chat Client
+Shared Uplinks with Errors,nybro-a0-1,Name:DESCR: HP Mini PC NAME: 4 - Descr:4,6,Low Level packet loss causes performance problems.
+Virtual Switch Input Packet Loss,10.0.33.229,DSIG-RDSHPH02,619,Receive packets dropped:619.
+Virtual Switch Input Packet Loss,10.0.33.249,DSIGSVR02,64,Receive packets dropped:64.
+Virtual Switch Input Packet Loss,10.0.33.199,DSIG-RDSHPH03,672,Receive packets dropped:672.
+Too Many IM/Chat Applications,,Microsoft Skype for Business MUI (English) 2016,7,Installs of Unique IM/Chat Client
+Virtual Switch Input Packet Loss,10.0.33.5,DSIG-DLAPP01,70,Receive packets dropped:70.
+Router Interfaces with Discards,10.0.67.254,Name:DESCR: X1 NAME: X1 (WAN) - Descr:X1 (WAN),769,Packet Discards cause performance problems.
+Router Interfaces with Discards,10.32.35.254,Name:DESCR: X1 NAME: X1 (WAN) - Descr:X1 (WAN),79,Packet Discards cause performance problems.
+Critical Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/9 NAME: 1/9 - Descr:1/9,8,Packet Discards cause performance problems.
+Shared Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/9 NAME: 1/9 - Descr:1/9,8,Packet Discards cause performance problems.
+Disk Latency,BIORX-VEEAM01,T:,856,Physical Disk Latency (ms)
+Virtual Switch Input Packet Loss,10.0.33.13,BioRx-RDSTORE01,862,Receive packets dropped:862.
+Virtual Switch Input Packet Loss,unknown,BioRx-RDWEB01,88,Receive packets dropped:88.
+High Memory Utilization,DSIG-RDSHPH03,,90,Max Memory Utilization %
+High Memory Utilization,BIORX-SQLTEST01,,90,Max Memory Utilization %
+High CPU Utilization,BIORX-VEEAM01,,91,Max CPU Utilization %
+Potential G.711 Calls Supported,10.0.33.23,DESCR: X4 NAME: X4 (DSIG:ScottsdaleAZ P2P),92,G.711 calls supported on this interface
+High Memory Utilization,DSIG-RDSHPH01,,92,Max Memory Utilization %
+Virtual Switch Input Packet Loss,10.0.33.219,DSIG-RDSHRM01,949,Receive packets dropped:949.
+Logical Disk Exhaustion,BIORX-FS01,E:,95,Logical Disk Utilization
+High Memory Utilization,BIORX-SQL01,,95,Max Memory Utilization %
+Virtual Switch Input Packet Loss,10.0.33.33,BioRx-FAX01,95,Receive packets dropped:95.
+High Memory Utilization,DSIG-SQL01,,97,Max Memory Utilization %
+High Memory Utilization,DSIG-RPT01,,97,Max Memory Utilization %
+Hypervisor Disk Command Aborts,10.0.33.20,biorx-vm03.biorx.net,99,Commands aborted:99.  Total Hours with aborted commands:19. VMware recommends 0 aborts

@@ -1,0 +1,46 @@
+Problem Short Description,Device Name,Instance,Metric,Detail,Packet Loss > 500 Packets
+Router Interfaces with Discards,10.0.34.252,Name:DESCR: X1 NAME: X1 (WAN) - Descr:X1 (WAN),53.0,Total Discards:53,False
+Router Interfaces with Discards,10.32.35.254,Name:DESCR: X1 NAME: X1 (WAN) - Descr:X1 (WAN),79.0,Total Discards:79,False
+Router Interfaces with Discards,10.0.67.254,Name:DESCR: X1 NAME: X1 (WAN) - Descr:X1 (WAN),769.0,Total Discards:769,True
+Router Interfaces with Discards,10.0.66.254,Name:DESCR: X1 NAME: X1 (WAN) - Descr:X1 (WAN),2050.0,Total Discards:2050,True
+Router Interfaces with Errors,10.0.68.254,Name:DESCR: X6 NAME: X6 (Portshielded To X0) - Descr:X6 (Portshielded To X0),12086.0,Total Errors:12086,True
+Virtual Switch Input Packet Loss,10.0.33.14,BioRx-PRINT01,17.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.27,BioRx-KS,22.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.246,BioRx-APP02,22.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.50,MedPro_SAS,27.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.16,BioRx-DRvCenterVA,30.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.6,DSIG-DLOCR01,52.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.249,DSIGSVR02,64.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.5,DSIG-DLAPP01,70.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,unknown,BioRx-RDWEB01,88.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.33,BioRx-FAX01,95.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,169.254.2.180,OHBAEXCHAPPRD01,139.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.17,BioRx-vCenterVA,145.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.8,DSIG-RPT01,152.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.12,BioRx-RDSFARM01,157.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.247,BioRx-FIN02,229.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.9,DSIG-Ruckus-vSZ-Primary,234.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.47,DSIG-APP01,339.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.7,DSIG-DLSQL01,412.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.4,BioRx-SQL01,430.0,vSwitch Receive Packets Dropped,False
+Virtual Switch Input Packet Loss,10.0.33.229,DSIG-RDSHPH02,619.0,vSwitch Receive Packets Dropped,True
+Virtual Switch Input Packet Loss,10.0.33.199,DSIG-RDSHPH03,672.0,vSwitch Receive Packets Dropped,True
+Virtual Switch Input Packet Loss,10.0.33.13,BioRx-RDSTORE01,862.0,vSwitch Receive Packets Dropped,True
+Virtual Switch Input Packet Loss,10.0.33.219,DSIG-RDSHRM01,949.0,vSwitch Receive Packets Dropped,True
+Virtual Switch Input Packet Loss,10.0.33.245,DSIG-RDSHPH01,1047.0,vSwitch Receive Packets Dropped,True
+Virtual Switch Input Packet Loss,10.0.33.198,DSIG-RDSHRM03,1066.0,vSwitch Receive Packets Dropped,True
+Virtual Switch Input Packet Loss,10.0.33.3,BioRx-FS01,1108.0,vSwitch Receive Packets Dropped,True
+Virtual Switch Input Packet Loss,10.0.33.49,BioRx-vSAN01,1154.0,vSwitch Receive Packets Dropped,True
+Virtual Switch Input Packet Loss,10.0.33.226,DSIG-RDSHRM02,2166.0,vSwitch Receive Packets Dropped,True
+Virtual Switch Input Packet Loss,10.0.33.46,DSIG-SQL01,2306.0,vSwitch Receive Packets Dropped,True
+Virtual Switch Input Packet Loss,10.0.33.38,BioRx-VEEAM01,312941.0,vSwitch Receive Packets Dropped,True
+Critical Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/9 NAME: 1/9 - Descr:1/9,8.0,Neighbor Device: H Total Discards:8,False
+Critical Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/41 NAME: 1/41 - Descr:1/41,47.0,Neighbor Device: H Total Discards:47,False
+Critical Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/13 NAME: 1/13 - Descr:1/13,50.0,Neighbor Device: H Total Discards:50,False
+Shared Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/9 NAME: 1/9 - Descr:1/9,8.0,Total Discards:8,False
+Shared Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/41 NAME: 1/41 - Descr:1/41,47.0,Total Discards:47,False
+Shared Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/13 NAME: 1/13 - Descr:1/13,50.0,Total Discards:50,False
+Shared Uplinks with Discards,txdal-a0-st01,Name:DESCR: Port 2/10 NAME: 2/10 - Descr:2/10,541.0,Total Discards:541,True
+Shared Uplinks with Errors,nybro-a0-1,Name:DESCR: Port 5 NAME: 5 - Descr:5,2.0,Total Errors:2,False
+Shared Uplinks with Errors,nybro-a0-1,Name:DESCR: Lexmark NAME: 1 - Descr:1,2.0,Total Errors:2,False
+Shared Uplinks with Errors,nybro-a0-1,Name:DESCR: HP Mini PC NAME: 4 - Descr:4,6.0,Total Errors:6,False

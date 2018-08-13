@@ -1,0 +1,114 @@
+,Category,Problem Short Description,Device Name,Instance,Metric,Detail,Metric Description
+61,Network,Critical Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/9 NAME: 1/9 - Descr:1/9,8.0,Neighbor Device: H Total Discards:8,Packet Discards cause performance problems.
+59,Network,Critical Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/41 NAME: 1/41 - Descr:1/41,47.0,Neighbor Device: H Total Discards:47,Packet Discards cause performance problems.
+60,Network,Critical Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/13 NAME: 1/13 - Descr:1/13,50.0,Neighbor Device: H Total Discards:50,Packet Discards cause performance problems.
+25,Network,Network Software Consistency,,YA.15.19,1.0,hpEtherSwitch.137,Software Versions on Family
+26,Network,Network Software Consistency,,YA.15.19,1.0,hpEtherSwitch.138,Software Versions on Family
+27,Network,Network Software Consistency,,WB.15.05,1.0,hpicfStacks.3,Software Versions on Family
+22,Network,Network Software Consistency,,,2.0,,Software Versions on Family
+23,Network,Network Software Consistency,,1.0.0.44,2.0,2848,Software Versions on Family
+28,Network,Network Software Consistency,,WB.16.01,2.0,hpicfStacks.3,Software Versions on Family
+29,Network,Network Software Consistency,,WB.16.02,2.0,hpicfStacks.3,Software Versions on Family
+30,Network,Network Software Consistency,,WB.16.03,3.0,hpicfStacks.3,Software Versions on Family
+24,Network,Network Software Consistency,,,16.0,enterprises.8741.1,Software Versions on Family
+62,Network,Router Interfaces with Discards,10.0.34.252,Name:DESCR: X1 NAME: X1 (WAN) - Descr:X1 (WAN),53.0,Total Discards:53,Packet Discards cause performance problems.
+63,Network,Router Interfaces with Discards,10.32.35.254,Name:DESCR: X1 NAME: X1 (WAN) - Descr:X1 (WAN),79.0,Total Discards:79,Packet Discards cause performance problems.
+64,Network,Router Interfaces with Discards,10.0.67.254,Name:DESCR: X1 NAME: X1 (WAN) - Descr:X1 (WAN),769.0,Total Discards:769,Packet Discards cause performance problems.
+65,Network,Router Interfaces with Discards,10.0.66.254,Name:DESCR: X1 NAME: X1 (WAN) - Descr:X1 (WAN),2050.0,Total Discards:2050,Packet Discards cause performance problems.
+55,Network,Router Interfaces with Errors,10.0.68.254,Name:DESCR: X6 NAME: X6 (Portshielded To X0) - Descr:X6 (Portshielded To X0),12086.0,Total Errors:12086,Low Level packet loss causes performance problems.
+5,Network,Routing Protocol,,netmgmt,32.0,num of routes by protocol,num of routes by protocol
+4,Network,Routing Protocol,,local,38.0,num of routes by protocol,num of routes by protocol
+6,Network,Routing Protocol,,other,114.0,num of routes by protocol,num of routes by protocol
+67,Network,Shared Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/9 NAME: 1/9 - Descr:1/9,8.0,Total Discards:8,Packet Discards cause performance problems.
+69,Network,Shared Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/41 NAME: 1/41 - Descr:1/41,47.0,Total Discards:47,Packet Discards cause performance problems.
+68,Network,Shared Uplinks with Discards,ncgre-a0-st01,Name:DESCR: Port 1/13 NAME: 1/13 - Descr:1/13,50.0,Total Discards:50,Packet Discards cause performance problems.
+66,Network,Shared Uplinks with Discards,txdal-a0-st01,Name:DESCR: Port 2/10 NAME: 2/10 - Descr:2/10,541.0,Total Discards:541,Packet Discards cause performance problems.
+56,Network,Shared Uplinks with Errors,nybro-a0-1,Name:DESCR: Lexmark NAME: 1 - Descr:1,2.0,Total Errors:2,Low Level packet loss causes performance problems.
+58,Network,Shared Uplinks with Errors,nybro-a0-1,Name:DESCR: Port 5 NAME: 5 - Descr:5,2.0,Total Errors:2,Low Level packet loss causes performance problems.
+57,Network,Shared Uplinks with Errors,nybro-a0-1,Name:DESCR: HP Mini PC NAME: 4 - Descr:4,6.0,Total Errors:6,Low Level packet loss causes performance problems.
+3,Server,Disk Latency,BIORX-VEEAM01,T:,856.0,Physical Disk Latency (ms),Physical Disk Latency (ms)
+2,Server,Disk Latency,BIORX-SQL01,G:,1317.0,Physical Disk Latency (ms),Physical Disk Latency (ms)
+70,Server,High CPU Utilization,BIORX-VEEAM01,,91.0,Max CPU Utilization %,Max CPU Utilization %
+109,Server,High I/O Latency on Shared Storage,10.0.33.18,biorx-vm01.biorx.net,195.0,Read/Write Latency to LUN: naa.6589cfc000000bacbb6f7417fd101995,Max Physical device write latency: 195 ms.  Total Hours with avg latency > 50 ms: 3.
+108,Server,High I/O Latency on Shared Storage,10.0.33.18,biorx-vm01.biorx.net,207.0,Read/Write Latency to LUN: naa.6589cfc000000bacbb6f7417fd101995,Max Physical device read latency: 207 ms.  Total Hours with avg latency > 50 ms: 2.
+111,Server,High I/O Latency on Shared Storage,10.0.33.20,biorx-vm03.biorx.net,41035.0,Read/Write Latency to LUN: naa.6589cfc000000bacbb6f7417fd101995,Max Physical device write latency: 41035 ms.  Total Hours with avg latency > 50 ms: 26.
+110,Server,High I/O Latency on Shared Storage,10.0.33.20,biorx-vm03.biorx.net,141890.0,Read/Write Latency to LUN: naa.6589cfc000000bacbb6f7417fd101995,Max Physical device read latency: 141890 ms.  Total Hours with avg latency > 50 ms: 59.
+74,Server,High Memory Utilization,DSIG-RDSHPH03,,90.0,Max Memory Utilization %,Max Memory Utilization %
+75,Server,High Memory Utilization,BIORX-SQLTEST01,,90.0,Max Memory Utilization %,Max Memory Utilization %
+71,Server,High Memory Utilization,DSIG-RDSHPH01,,92.0,Max Memory Utilization %,Max Memory Utilization %
+73,Server,High Memory Utilization,BIORX-SQL01,,95.0,Max Memory Utilization %,Max Memory Utilization %
+72,Server,High Memory Utilization,DSIG-SQL01,,97.0,Max Memory Utilization %,Max Memory Utilization %
+76,Server,High Memory Utilization,DSIG-RPT01,,97.0,Max Memory Utilization %,Max Memory Utilization %
+31,Server,Hypervisor CPU Oversubscription,10.0.33.46,DSIG-SQL01 -,5.0,Average % Ready Time,Total Hours over 5% ready time:1 VMware recommends under 5% CPU Ready Time
+32,Server,Hypervisor CPU Oversubscription,10.0.33.219,DSIG-RDSHRM01 -,5.0,Average % Ready Time,Total Hours over 5% ready time:1 VMware recommends under 5% CPU Ready Time
+33,Server,Hypervisor CPU Oversubscription,10.0.33.226,DSIG-RDSHRM02 -,5.0,Average % Ready Time,Total Hours over 5% ready time:3 VMware recommends under 5% CPU Ready Time
+34,Server,Hypervisor CPU Oversubscription,10.0.33.229,DSIG-RDSHPH02 -,5.0,Average % Ready Time,Total Hours over 5% ready time:4 VMware recommends under 5% CPU Ready Time
+77,Server,Hypervisor Disk Command Aborts,10.0.33.20,biorx-vm03.biorx.net,99.0,Storage Commands Aborted,Commands aborted:99.  Total Hours with aborted commands:19. VMware recommends 0 aborts
+0,Server,Logical Disk Exhaustion,BIORX-FS01,E:,95.0,Logical Disk Utilization,Logical Disk Utilization
+1,Server,Logical Disk Exhaustion,BIORX-SQLTEST01,E:,114.0,Logical Disk Utilization,Logical Disk Utilization
+87,Server,Virtual Switch Input Packet Loss,10.0.33.14,BioRx-PRINT01,17.0,vSwitch Receive Packets Dropped,Receive packets dropped:17.
+90,Server,Virtual Switch Input Packet Loss,10.0.33.27,BioRx-KS,22.0,vSwitch Receive Packets Dropped,Receive packets dropped:22.
+103,Server,Virtual Switch Input Packet Loss,10.0.33.246,BioRx-APP02,22.0,vSwitch Receive Packets Dropped,Receive packets dropped:22.
+96,Server,Virtual Switch Input Packet Loss,10.0.33.50,MedPro_SAS,27.0,vSwitch Receive Packets Dropped,Receive packets dropped:27.
+88,Server,Virtual Switch Input Packet Loss,10.0.33.16,BioRx-DRvCenterVA,30.0,vSwitch Receive Packets Dropped,Receive packets dropped:30.
+81,Server,Virtual Switch Input Packet Loss,10.0.33.6,DSIG-DLOCR01,52.0,vSwitch Receive Packets Dropped,Receive packets dropped:52.
+105,Server,Virtual Switch Input Packet Loss,10.0.33.249,DSIGSVR02,64.0,vSwitch Receive Packets Dropped,Receive packets dropped:64.
+80,Server,Virtual Switch Input Packet Loss,10.0.33.5,DSIG-DLAPP01,70.0,vSwitch Receive Packets Dropped,Receive packets dropped:70.
+107,Server,Virtual Switch Input Packet Loss,unknown,BioRx-RDWEB01,88.0,vSwitch Receive Packets Dropped,Receive packets dropped:88.
+91,Server,Virtual Switch Input Packet Loss,10.0.33.33,BioRx-FAX01,95.0,vSwitch Receive Packets Dropped,Receive packets dropped:95.
+106,Server,Virtual Switch Input Packet Loss,169.254.2.180,OHBAEXCHAPPRD01,139.0,vSwitch Receive Packets Dropped,Receive packets dropped:139.
+89,Server,Virtual Switch Input Packet Loss,10.0.33.17,BioRx-vCenterVA,145.0,vSwitch Receive Packets Dropped,Receive packets dropped:145.
+83,Server,Virtual Switch Input Packet Loss,10.0.33.8,DSIG-RPT01,152.0,vSwitch Receive Packets Dropped,Receive packets dropped:152.
+85,Server,Virtual Switch Input Packet Loss,10.0.33.12,BioRx-RDSFARM01,157.0,vSwitch Receive Packets Dropped,Receive packets dropped:157.
+104,Server,Virtual Switch Input Packet Loss,10.0.33.247,BioRx-FIN02,229.0,vSwitch Receive Packets Dropped,Receive packets dropped:229.
+84,Server,Virtual Switch Input Packet Loss,10.0.33.9,DSIG-Ruckus-vSZ-Primary,234.0,vSwitch Receive Packets Dropped,Receive packets dropped:234.
+94,Server,Virtual Switch Input Packet Loss,10.0.33.47,DSIG-APP01,339.0,vSwitch Receive Packets Dropped,Receive packets dropped:339.
+82,Server,Virtual Switch Input Packet Loss,10.0.33.7,DSIG-DLSQL01,412.0,vSwitch Receive Packets Dropped,Receive packets dropped:412.
+79,Server,Virtual Switch Input Packet Loss,10.0.33.4,BioRx-SQL01,430.0,vSwitch Receive Packets Dropped,Receive packets dropped:430.
+101,Server,Virtual Switch Input Packet Loss,10.0.33.229,DSIG-RDSHPH02,619.0,vSwitch Receive Packets Dropped,Receive packets dropped:619.
+98,Server,Virtual Switch Input Packet Loss,10.0.33.199,DSIG-RDSHPH03,672.0,vSwitch Receive Packets Dropped,Receive packets dropped:672.
+86,Server,Virtual Switch Input Packet Loss,10.0.33.13,BioRx-RDSTORE01,862.0,vSwitch Receive Packets Dropped,Receive packets dropped:862.
+99,Server,Virtual Switch Input Packet Loss,10.0.33.219,DSIG-RDSHRM01,949.0,vSwitch Receive Packets Dropped,Receive packets dropped:949.
+102,Server,Virtual Switch Input Packet Loss,10.0.33.245,DSIG-RDSHPH01,1047.0,vSwitch Receive Packets Dropped,Receive packets dropped:1047.
+97,Server,Virtual Switch Input Packet Loss,10.0.33.198,DSIG-RDSHRM03,1066.0,vSwitch Receive Packets Dropped,Receive packets dropped:1066.
+78,Server,Virtual Switch Input Packet Loss,10.0.33.3,BioRx-FS01,1108.0,vSwitch Receive Packets Dropped,Receive packets dropped:1108.
+95,Server,Virtual Switch Input Packet Loss,10.0.33.49,BioRx-vSAN01,1154.0,vSwitch Receive Packets Dropped,Receive packets dropped:1154.
+100,Server,Virtual Switch Input Packet Loss,10.0.33.226,DSIG-RDSHRM02,2166.0,vSwitch Receive Packets Dropped,Receive packets dropped:2166.
+93,Server,Virtual Switch Input Packet Loss,10.0.33.46,DSIG-SQL01,2306.0,vSwitch Receive Packets Dropped,Receive packets dropped:2306.
+92,Server,Virtual Switch Input Packet Loss,10.0.33.38,BioRx-VEEAM01,312941.0,vSwitch Receive Packets Dropped,Receive packets dropped:312941.
+35,UC,Potential G.711 Calls Supported,10.0.33.23,DESCR: X4 NAME: X4 (DSIG:ScottsdaleAZ P2P),92.0,Inbound Calls:113 Outbound Calls: 92,G.711 calls supported on this interface
+44,UC,Potential G.711 Calls Supported,10.32.36.254,DESCR: X2 NAME: X2 (IPVPN),105.0,Inbound Calls:105 Outbound Calls: 123,G.711 calls supported on this interface
+39,UC,Potential G.711 Calls Supported,nybro-a0-1,DESCR: HP Mini PC NAME: 4,110.0,Inbound Calls:124 Outbound Calls: 110,G.711 calls supported on this interface
+37,UC,Potential G.711 Calls Supported,iaurb-a0-st01,DESCR: Port 1/33 NAME: 1/33,116.0,Inbound Calls:124 Outbound Calls: 116,G.711 calls supported on this interface
+36,UC,Potential G.711 Calls Supported,HP2920-48G-PoE+Kemper-S2,DESCR: Port 1/31 NAME: 1/31,120.0,Inbound Calls:123 Outbound Calls: 120,G.711 calls supported on this interface
+42,UC,Potential G.711 Calls Supported,HP-2920-48G-PoE+Cornell,DESCR: Port 1/23 NAME: 1/23,120.0,Inbound Calls:124 Outbound Calls: 120,G.711 calls supported on this interface
+40,UC,Potential G.711 Calls Supported,HP-2920-48G-PoE+Kemper,DESCR: Port 1/44 NAME: 1/44,121.0,Inbound Calls:124 Outbound Calls: 121,G.711 calls supported on this interface
+41,UC,Potential G.711 Calls Supported,HP-2920-48G-PoE+Kemper,DESCR: Port 3/40 NAME: 3/40,121.0,Inbound Calls:122 Outbound Calls: 121,G.711 calls supported on this interface
+43,UC,Potential G.711 Calls Supported,mawob-a0-st01,DESCR: Port 2/37 NAME: 2/37,121.0,Inbound Calls:123 Outbound Calls: 121,G.711 calls supported on this interface
+38,UC,Potential G.711 Calls Supported,iaurb-a0-st01,DESCR: Port 1/21 NAME: 1/21,122.0,Inbound Calls:124 Outbound Calls: 122,G.711 calls supported on this interface
+45,UC,Potential G.729a Calls Supported,10.0.33.23,DESCR: X4 NAME: X4 (DSIG:ScottsdaleAZ P2P),284.0,Inbound Calls:350 Outbound Calls: 284,G.729 calls supported on this interface
+54,UC,Potential G.729a Calls Supported,10.32.36.254,DESCR: X2 NAME: X2 (IPVPN),325.0,Inbound Calls:325 Outbound Calls: 379,G.729 calls supported on this interface
+49,UC,Potential G.729a Calls Supported,nybro-a0-1,DESCR: HP Mini PC NAME: 4,340.0,Inbound Calls:383 Outbound Calls: 340,G.729 calls supported on this interface
+47,UC,Potential G.729a Calls Supported,iaurb-a0-st01,DESCR: Port 1/33 NAME: 1/33,358.0,Inbound Calls:383 Outbound Calls: 358,G.729 calls supported on this interface
+46,UC,Potential G.729a Calls Supported,HP2920-48G-PoE+Kemper-S2,DESCR: Port 1/31 NAME: 1/31,369.0,Inbound Calls:381 Outbound Calls: 369,G.729 calls supported on this interface
+52,UC,Potential G.729a Calls Supported,HP-2920-48G-PoE+Cornell,DESCR: Port 1/23 NAME: 1/23,371.0,Inbound Calls:383 Outbound Calls: 371,G.729 calls supported on this interface
+50,UC,Potential G.729a Calls Supported,HP-2920-48G-PoE+Kemper,DESCR: Port 1/44 NAME: 1/44,372.0,Inbound Calls:382 Outbound Calls: 372,G.729 calls supported on this interface
+51,UC,Potential G.729a Calls Supported,HP-2920-48G-PoE+Kemper,DESCR: Port 3/40 NAME: 3/40,372.0,Inbound Calls:375 Outbound Calls: 372,G.729 calls supported on this interface
+53,UC,Potential G.729a Calls Supported,mawob-a0-st01,DESCR: Port 2/37 NAME: 2/37,374.0,Inbound Calls:380 Outbound Calls: 374,G.729 calls supported on this interface
+48,UC,Potential G.729a Calls Supported,iaurb-a0-st01,DESCR: Port 1/21 NAME: 1/21,375.0,Inbound Calls:383 Outbound Calls: 375,G.729 calls supported on this interface
+7,UC,Too Many IM/Chat Applications,,Cisco WebEx Meeting Center,1.0,Cisco WebEx Meeting Center Version: 31.4.0.44,Installs of Unique IM/Chat Client
+9,UC,Too Many IM/Chat Applications,,Microsoft Office Live Meeting 2007,1.0,Microsoft Office Live Meeting 2007 Version: 8.0.6362.202,Installs of Unique IM/Chat Client
+11,UC,Too Many IM/Chat Applications,,Microsoft Office Live Meeting 2007,1.0,Microsoft Office Live Meeting 2007 Version: 8.0.6362.223,Installs of Unique IM/Chat Client
+12,UC,Too Many IM/Chat Applications,,Microsoft Office Live Meeting 2007,1.0,Microsoft Office Live Meeting 2007 Version: 8.0.6362.254,Installs of Unique IM/Chat Client
+16,UC,Too Many IM/Chat Applications,,NA1Messenger,1.0,NA1Messenger Version: 21.00.0000,Installs of Unique IM/Chat Client
+10,UC,Too Many IM/Chat Applications,,Microsoft Office Live Meeting 2007,2.0,Microsoft Office Live Meeting 2007 Version: 8.0.6362.215,Installs of Unique IM/Chat Client
+14,UC,Too Many IM/Chat Applications,,NA1Messenger,2.0,NA1Messenger Version: 17.00.0000,Installs of Unique IM/Chat Client
+15,UC,Too Many IM/Chat Applications,,NA1Messenger,2.0,NA1Messenger Version: 19.00.0000,Installs of Unique IM/Chat Client
+17,UC,Too Many IM/Chat Applications,,WebEx Productivity Tools,2.0,WebEx Productivity Tools Version: 32.7.0.47,Installs of Unique IM/Chat Client
+8,UC,Too Many IM/Chat Applications,,Messenger Companion,6.0,Messenger Companion Version: 15.4.3502.0922,Installs of Unique IM/Chat Client
+21,UC,Too Many IM/Chat Applications,,Windows Live Messenger Companion Core,6.0,Windows Live Messenger Companion Core Version: 15.4.3502.0922,Installs of Unique IM/Chat Client
+13,UC,Too Many IM/Chat Applications,,Microsoft Skype for Business MUI (English) 2016,7.0,Microsoft Skype for Business MUI (English) 2016 Version: 16.0.4266.1001,Installs of Unique IM/Chat Client
+18,UC,Too Many IM/Chat Applications,,Windows Live Communications Platform,14.0,Windows Live Communications Platform Version: 15.4.3502.0922,Installs of Unique IM/Chat Client
+20,UC,Too Many IM/Chat Applications,,Windows Live Messenger,14.0,Windows Live Messenger Version: 15.4.3502.0922,Installs of Unique IM/Chat Client
+19,UC,Too Many IM/Chat Applications,,Windows Live Communications Platform,26.0,Windows Live Communications Platform Version: 16.4.3505.0912,Installs of Unique IM/Chat Client
+112,,,,,,,
